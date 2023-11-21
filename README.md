@@ -252,6 +252,6 @@ Any amount you can donate, whether once or monthly, to help us reach our goal wo
 
 ![Powered by MacStadium](https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/MacStadiumLogo.png)
 
-## License
+## License - samson
 
 Alamofire is released under the MIT license. [See LICENSE](https://github.com/Alamofire/Alamofire/blob/master/LICENSE) for details.
